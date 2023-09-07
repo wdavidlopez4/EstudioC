@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+# metadatos del SO Mac como iconos...
+.DS_Store
+
